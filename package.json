@@ -1,0 +1,29 @@
+{
+  "name": "aeronesto-header-parser",
+  "version": "1.0.0",
+  "description": "Lets you get the IP, language and OS for the browser making the request.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aeronesto/header-parser.git"
+  },
+  "keywords": [
+    "API",
+    "aeronesto",
+    "IP",
+    "Header"
+  ],
+  "author": "Ernesto (aeronesto) Jimenez",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/aeronesto/header-parser/issues"
+  },
+  "homepage": "https://github.com/aeronesto/header-parser#readme",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
